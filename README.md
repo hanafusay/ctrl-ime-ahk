@@ -16,7 +16,7 @@
 
 ## 使い方
 
-[ctrl-ime-ahk v0.4.6](https://github.com/karakaram/ctrl-ime-ahk/releases/download/v0.4.6/ctrl-ime-ahk.zip) から ctrl-ime-ahk.zip をダウンロードして解凍し、ctrl-ime-ahk.exe を好きな場所に置き、起動してください。 タスクトレイに常駐します。
+[ctrl-ime-ahk v1](https://github.com/hanafusay/ctrl-ime-ahk/releases/tag/v1.0.0) から ctrl-ime-ahk.zip をダウンロードして解凍し、ctrl-ime-ahk.exe を好きな場所に置き、起動してください。 タスクトレイに常駐します。
 
 終了する場合はタスクトレイのアイコンを右クリックし、「終了」をクリックしてください。
 
@@ -27,3 +27,6 @@
 IntelliJ IDEA など JetBrains 製の IDE をお使いの方は「上部メニューバー　＞　View　＞　Tool Buttons」をオンにしてください。
 
 オフのまま使うと Ctrl キーを離した際に ctrl-ime-ahk.exe がエラー終了します。
+
+## 参考
+https://so-zou.jp/software/tool/system/auto-hot-key/tool/compiler.htm#context-menu
